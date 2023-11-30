@@ -12,3 +12,6 @@ Data contains a few commands but is not a generalized command line, these comman
 - ls:   list files in a directory
 - cd:   change directory
 - exit: exit the program
+
+special thank you to lthoener for their code ```ledit```, you can find them at:
+https://code.lthoerner.com/
